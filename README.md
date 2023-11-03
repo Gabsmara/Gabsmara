@@ -1,4 +1,4 @@
-<img src="./octocat-1699044846619.png" width="400px">
+<img src="./octocat-1699044846619.png" width="400px" align="left">
 
 ### <div align="center">Olá, meu nome é Gabriela, mais conhecida como Gabs. Sou engenheira de software atuando há 6 meses. </div>  
   
@@ -17,6 +17,8 @@
   
 
 <br/>  
+<br/>
+<br/>
 
 
 ## My Skill Set  
