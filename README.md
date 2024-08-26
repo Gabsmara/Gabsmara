@@ -6,7 +6,7 @@
 - ✍️Atualmente estou fazendo faculdade de Análise e Desenvolvimento de Sistemas.
   
 
-- 🤓Sou estagiária da Porang Inovações Tecnológicas
+- 🤓Sou Product Owner e Gerente de Projetos da Porang Inovações Tecnológicas
 
 - 📍Moro em Recife/PE.  
   
